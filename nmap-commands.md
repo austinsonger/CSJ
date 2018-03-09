@@ -2,11 +2,7 @@
 
 By Austin Vern Songer
 
-
-
 ### NMAP BASIC SCANS
-
-
 
 ```
 Single Target     > nmap <IP Target>
@@ -18,8 +14,6 @@ Random Host       > nmap -iR <IP Target>
 Aggressive Scan   > nmap -A <IP Target>
 IPv6 Target Scan  > nmap -G <IP Target>
 ```
-
-
 
 ## NMAP DISCOVERY SCANS
 
@@ -38,8 +32,6 @@ ARP PING                 > nmap -PR <IP Target>
 Traceroute               > nmap -traceroute <IP Target>
 ```
 
-
-
 ## NMAP ADVANCED SCANNER OPTIONS
 
 ```
@@ -56,11 +48,7 @@ Send Raw Ethernet Packets   > nmap -send-eth <IP Target>
 Send IP Packets             > nmap -send-ip <IP Target>
 ```
 
-
-
 ## NMAP PORT SCANNER OPTIONS
-
-
 
 ```
 Fast SCAN                   > nmap -F <IP Target>
@@ -71,35 +59,13 @@ All Ports SCAN              > nmap -p "*" <IP Target>
 Sequential Port SCAN        > nmap -r <IP Target>
 ```
 
-
-
-NMAP VERSION DETECTION
-
-
+## NMAP VERSION DETECTION
 
 ```
 OS Detection              > nmap -O <IP Target>
 Attempt to Guess          > nmap -O -osscan-guess <IP Target>
 Service Version Detection > nmap -sV <IP Target>
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
