@@ -1,4 +1,4 @@
-# NMAP COMMANDS -  CHEATSHEET
+# NMAP COMMANDS
 
 > By Austin Vern Songer
 
