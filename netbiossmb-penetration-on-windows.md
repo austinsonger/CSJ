@@ -22,9 +22,11 @@ nbtstat -a 192.168.1.128
 
 ### Hardening The Targeted System
 
-
+#### Open Windows Firewall Settings
 
 #### Filtering Ports 135-139
+
+
 
 
 
