@@ -4,8 +4,6 @@
 >
 > On NMAP you are actually able to save the results and I will show you how so.
 
-
-
 ### **Normal Output Format**
 
 **Full Command**
@@ -60,15 +58,30 @@ nmap <Target IP Address> -oX ~/Desktop/nmap.xml
 
 > #### XML OUTPUT
 
-####  Saving
+#### Saving
 
 > You will see the text document all of a sudden appear on the desktop.
 
 ![](/assets/NMAP Document Appear.png)
 
-#### Open Document
+#### Open XML Document
 
-> You can now double click on the "nmap" text document to open it.
+> You can now double click on the "nmap.xml" document to open it.
+>
+> **There are some additional benefits to opening in this format. You will begiven debugging information such as:**
+>
+> * Hosts and Port Stats
+> * Services
+> * Timestamps
+> * Executed Command
+> * NMAP Scripting Engine Output
+> * Run Statistics and Debugging Information
+
+![](/assets/Opened NMAP.png)
+
+
+
+
 
 
 
