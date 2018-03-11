@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [NMAP](nmap.md)
+* [Tool Commands](nmap.md)
   * [NMAP COMMANDS](nmap-commands.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
   * [Generating Scan Reports](generating-scan-reports.md)
@@ -19,4 +19,5 @@
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
 * [Hacking Phase: Clearing Tracks](hacking-phase-clearing-tracks.md)
+* [Metasploit](metasploit.md)
 
