@@ -85,3 +85,21 @@ msf exploit(ms17_010_eternalblue) > exploit
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
