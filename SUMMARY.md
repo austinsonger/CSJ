@@ -8,4 +8,5 @@
 * NMAP
   * [Generating Scan Reports](generating-scan-reports.md)
   * [Timing Scan \(Firewall Bypass\)](timing-scan-firewall-bypass.md)
+  * [Ping Scan \(Firewall Bypass\)](ping-scan-firewall-bypass.md)
 
