@@ -7,6 +7,7 @@
 * [Remote Connecting To PC Using SMB Port](remote-connecting-to-pc-using-smb-port.md)
 * NMAP
   * [Generating Scan Reports](generating-scan-reports.md)
+  * [Firewall Scan](firewall-scan.md)
   * [With WireShark](with-wireshark.md)
   * [Timing Scan \(Firewall Bypass\)](timing-scan-firewall-bypass.md)
   * [Ping Scan \(Firewall Bypass\)](ping-scan-firewall-bypass.md)
