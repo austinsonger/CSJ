@@ -4,6 +4,10 @@
 >
 > On NMAP you are actually able to save the results and I will show you how so.
 
+
+
+### **Normal Output Format**
+
 **Full Command**
 
 ```
@@ -18,7 +22,7 @@ nmap <Target IP Address>  -oN /root/Desktop/nmap
 -oN <File Path Output>
 ```
 
-> Normal Output
+> **Normal Output**
 
 #### Saving
 
@@ -31,6 +35,42 @@ nmap <Target IP Address>  -oN /root/Desktop/nmap
 > You can now double click on the "nmap" text document to open it.
 
 ![](/assets/Text-Document-Opening.png)
+
+### XML Output Format
+
+> XML - Extensible Markup Language
+>
+> * Tee-structured file format supported by Nmap
+>
+> To save in in this format please use the following command below.
+
+**Full Command**
+
+```
+nmap <Target IP Address> -oX ~/Desktop/nmap.xml
+```
+
+![](/assets/Nmap.png)
+
+**Specific Command**
+
+```
+-oX <XML output>
+```
+
+> #### XML OUTPUT
+
+####  Saving
+
+> You will see the text document all of a sudden appear on the desktop.
+
+![](/assets/NMAP Document Appear.png)
+
+#### Open Document
+
+> You can now double click on the "nmap" text document to open it.
+
+
 
 
 
