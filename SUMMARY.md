@@ -1,10 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [NMAP COMMANDS](nmap-commands.md)
 * NMAP
+  * [NMAP COMMANDS](nmap-commands.md)
   * [Generating Scan Reports](generating-scan-reports.md)
-  * [Password Cracking](password-cracking.md)
   * [Firewall Scan](firewall-scan.md)
   * [With WireShark](with-wireshark.md)
   * [Timing Scan \(Firewall Bypass\)](timing-scan-firewall-bypass.md)
