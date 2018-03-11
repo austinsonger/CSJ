@@ -14,6 +14,7 @@
   * [Recon-ng \[Part One\]](recon-ng.md)
   * [Exploit SNMP](exploit-snmp.md)
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
+* [Scan with SYN Flag](scan-with-syn-flag.md)
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
 * [Hacking Phase: Clearing Tracks](hacking-phase-clearing-tracks.md)
