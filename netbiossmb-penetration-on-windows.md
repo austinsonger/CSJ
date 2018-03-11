@@ -16,23 +16,9 @@ nmap -sT -sU 192.168.1.128
 
 
 
+
+
 ### You Can Enumerate The Network Using Nbtstat
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
