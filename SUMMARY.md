@@ -15,6 +15,7 @@
   * [Exploit SNMP](exploit-snmp.md)
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
   * [Scan with SYN Flag](scan-with-syn-flag.md)
+  * [Scan with TCP Connect](scan-with-tcp-connect.md)
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
 * [Hacking Phase: Clearing Tracks](hacking-phase-clearing-tracks.md)
