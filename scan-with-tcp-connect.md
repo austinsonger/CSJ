@@ -12,7 +12,7 @@
 nmap -sT -P0 <Target IP Address>
 ```
 
-> **This is a load scan and will create a log in the Windows Security events**
+> **This is a loud scan and will create a log in the Windows Security events**
 
 
 
