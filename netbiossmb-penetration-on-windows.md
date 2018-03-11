@@ -42,23 +42,7 @@ nbtstat -a 192.168.1.128
 
 #### 
 
-## Exploit Target System
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Exploit Target System Using Metasploit
 
 
 
