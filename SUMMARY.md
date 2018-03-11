@@ -17,6 +17,7 @@
   * [Scan with SYN Flag](scan-with-syn-flag.md)
   * [Scan with TCP Connect](scan-with-tcp-connect.md)
   * [Scan with Null Scan](scan-with-null-scan.md)
+  * [Scan with XMAS](scan-with-xmas.md)
   * [Scan with UDP](scan-with-udp.md)
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
