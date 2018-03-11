@@ -79,6 +79,10 @@ nmap <Target IP Address> -oX ~/Desktop/nmap.xml
 
 ![](/assets/Opened NMAP.png)
 
+### Converting To A Prettier Format
+
+> You can convert XML into a format that will display the information into a prettier format.
+
 
 
 
