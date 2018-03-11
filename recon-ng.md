@@ -77,13 +77,7 @@ keys add facebook_api 0123456
 
 ### Using recon-ng
 
-> We are going to use one of recon-ng commands that don't require a api.
-
-
-
-
-
-
+> We are going to use one of recon-ng commands that don't require a api key.
 
 
 
