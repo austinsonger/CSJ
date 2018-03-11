@@ -26,7 +26,35 @@ nbtstat -a 192.168.1.128
 
 #### Filtering Ports 135-139
 
+> 1. Click on Inbound Rules
+> 2. Click NEW RULE
+> 3. Click Button for port to create new rule \(TCP or UDP\)
+> 4. Click Next
+> 5. Click UDP port to apply rule
+> 6. Click next
+> 7. Chose Block Connection
 
+
+
+#### Scan Target System Again
+
+```
+nbtstat -a 192.168.1.128
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 
 
 
 
