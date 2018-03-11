@@ -1,6 +1,6 @@
 # Generating Scan Reports
 
-> You sometimes use nmap for networking scanning by enumerating for active port services on the targeted system and then the results just clearing out away upon exiting.
+> You sometimes use nmap for network scanning by enumerating for active port services on the targeted system and then usually the results just clear out upon exiting.
 >
 > On NMAP you are actually able to save the results and I will show you how so.
 
@@ -27,6 +27,12 @@ nmap <Target IP Address>  -oN /root/Desktop/nmap
 ![](/assets/Document Appearing on Kali Desktop.png)
 
 #### Open Document
+
+> You can now double click on the "nmap" text document to open it.
+
+![](/assets/Text-Document-Opening.png)
+
+
 
 
 
