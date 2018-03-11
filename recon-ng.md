@@ -57,6 +57,16 @@ keys list
 
 ![](/assets/_Recon-ng07.png)![](/assets/_Recon-ng08.png)
 
+### Add Keys
+
+> You obtain an API key from the site and add it to Recon-ng for use.
+>
+> Example:
+>
+> API key from Facebook and that key was "0123456"
+
+
+
 
 
 
