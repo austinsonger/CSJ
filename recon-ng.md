@@ -16,6 +16,18 @@ recon-ng
 
 ![](/assets/_Recon-ng02.png)
 
+### First Step
+
+> You should first start by typing the "help" command to see all the possible commands you can use.
+
+![](/assets/_Recon-ng03.png)
+
+
+
+
+
+
+
 
 
 
