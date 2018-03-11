@@ -16,6 +16,7 @@
   * [NMAP: Scan with TCP Connect](scan-with-tcp-connect.md)
   * [NMAP: Scan with Null](scan-with-null-scan.md)
   * [NMAP: Scan with XMAS](scan-with-xmas.md)
+  * [NMAP: Scanning a Subnet](nmap-scanning-a-subnet.md)
   * [NMAP: Scan with Stealth](scan-with-stealth.md)
   * [NMAP: Scan with UDP](scan-with-udp.md)
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
