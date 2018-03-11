@@ -12,7 +12,7 @@
   * [Hex Value of Flags](hex-value-of-flags.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
-* Hacking Phase: Gaining Access
+* [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * Hacking Phase: Maintaining Access
 * Hacking Phase: Clearing Tracks
 
