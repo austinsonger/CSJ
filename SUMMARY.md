@@ -14,5 +14,5 @@
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
-* Hacking Phase: Clearing Tracks
+* [Hacking Phase: Clearing Tracks](hacking-phase-clearing-tracks.md)
 
