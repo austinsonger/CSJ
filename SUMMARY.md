@@ -22,4 +22,5 @@
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
 * [Hacking Phase: Clearing Tracks](hacking-phase-clearing-tracks.md)
+* [NMAP: Spoofing & Decoy Scan](nmap-spoofing-and-decoy-scan.md)
 
