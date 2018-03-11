@@ -55,9 +55,7 @@ show modules
 keys list
 ```
 
-
-
-![](/assets/_Recon-ng07.png)
+![](/assets/_Recon-ng07.png)![](/assets/_Recon-ng08.png)
 
 
 
