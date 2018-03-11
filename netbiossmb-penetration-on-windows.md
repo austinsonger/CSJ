@@ -56,6 +56,10 @@ msf auxiliary(smb_ms17_010) > set port 445
 msf auxiliary(smb_ms17_010) > exploit
 ```
 
+### Exploit Results
+
+> From the results you will see that the system is vulnerable to the scan
+
 
 
 
