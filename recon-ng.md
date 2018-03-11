@@ -36,23 +36,16 @@ help
 show modules
 ```
 
-
-
 ### Application Programming Interface \(API\)
 
-> Recon-ng has an amazing feature that allows a hacker to extract recon information from API's.
-
-
-
-
-
-
-
-
-
-
-
-
+> Recon-ng has an amazing feature that allows a hacker to extract recon information from known API's:
+>
+> * Google
+> * Bing
+> * Facebook
+> * Linkedin
+> * Instagram
+> * and others
 
 
 
