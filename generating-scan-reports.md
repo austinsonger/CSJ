@@ -83,13 +83,11 @@ nmap <Target IP Address> -oX ~/Desktop/nmap.xml
 
 > You can convert XML into a format that will display the information into a prettier format.
 
+**Full Command**
 
-
-
-
-
-
-
+```
+xsltproc Desktop/nmap.xml –o nmap.html
+```
 
 
 
