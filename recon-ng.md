@@ -79,8 +79,6 @@ keys add facebook_api 0123456
 
 > We are going to use one of recon-ng commands that don't require a api key.
 
-
-
 #### Scanning for vulnerabilities
 
 ##### XSS \(cross-site scripting\) vulnerabilities
@@ -90,6 +88,40 @@ keys add facebook_api 0123456
 ```
 recon-ng > use recon/domains-vulnerabilities/xssposed
 ```
+
+> This will load the module into memory
+
+Now type "show info"
+
+```
+show info
+```
+
+> This command will show similar information that Metasploit shows.
+
+##### Set Source
+
+> Type the following "set source" \[using google.com as example\]
+
+```
+set source
+```
+
+> Now it's read to run
+
+```
+run
+```
+
+> After the scan completes you will be given results and if nothing is showed up then it will appear as the following:
+
+```
+No vulnerabilities found.
+```
+
+
+
+
 
 
 
