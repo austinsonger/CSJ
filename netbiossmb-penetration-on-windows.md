@@ -34,27 +34,39 @@ nbtstat -a 192.168.1.128
 > 6. Click next
 > 7. Chose Block Connection
 
-
-
 #### Scan Target System Again
 
 ```
 nbtstat -a 192.168.1.128
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
 #### 
+
+## Exploit Target System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
