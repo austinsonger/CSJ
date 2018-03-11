@@ -5,8 +5,6 @@
 > * It never completes the three-way handshake
 >   * Thus it will never be logged by Windows Security Events
 
-
-
 ```
 nmap -sS -P0 <Target IP Address>
 ```
