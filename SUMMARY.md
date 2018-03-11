@@ -12,6 +12,7 @@
   * [Hex Value of Flags](hex-value-of-flags.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
   * [Recon-ng \[Part One\]](recon-ng.md)
+  * [Using hping3](using-hping3.md)
   * [Exploit SNMP](exploit-snmp.md)
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
   * [Scan with SYN Flag](scan-with-syn-flag.md)
