@@ -10,5 +10,6 @@
   * [Timing Scan \(Firewall Bypass\)](timing-scan-firewall-bypass.md)
   * [Ping Scan \(Firewall Bypass\)](ping-scan-firewall-bypass.md)
   * [Port Status](port-status.md)
-  * Hex Value of Flags
+  * [Hex Value of Flags](hex-value-of-flags.md)
+  * [With WireShark](with-wireshark.md)
 
