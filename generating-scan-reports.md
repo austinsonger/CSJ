@@ -20,15 +20,13 @@ nmap <Target IP Address>  -oN /root/Desktop/nmap
 
 > Normal Output
 
-
-
 #### Saving
 
 > You will see the text document all of a sudden appear on the desktop.
 
 ![](/assets/Document Appearing on Kali Desktop.png)
 
-
+#### Open Document
 
 
 
