@@ -65,7 +65,11 @@ keys list
 >
 > API key from Facebook and that key was "0123456"
 
+```
+keys add facebook_api 0123456
+```
 
+![](/assets/_Recon-ng09.png)
 
 
 
