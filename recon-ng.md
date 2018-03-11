@@ -46,8 +46,12 @@ show modules
 > * Linkedin
 > * Instagram
 > * and others
+>
+> To show what API keys that Recon-ng uses by typing the following:
 
-
+```
+keys list
+```
 
 
 
