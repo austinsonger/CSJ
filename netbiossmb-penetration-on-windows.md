@@ -14,19 +14,17 @@ nmap -sT -sU 192.168.1.128
 
 ### 
 
-### You Can Enumerate The Network Using Nbtstat
+## You Can Enumerate The Network Using Nbtstat
 
 ```bash
 nbtstat -a 192.168.1.128
 ```
 
-#### Hardening The Targeted System
+### Hardening The Targeted System
 
 
 
-##### Filtering Ports 135-139
-
-
+#### Filtering Ports 135-139
 
 
 
