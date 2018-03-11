@@ -36,6 +36,8 @@ help
 show modules
 ```
 
+### ![](/assets/_Recon-ng06.png)
+
 ### Application Programming Interface \(API\)
 
 > Recon-ng has an amazing feature that allows a hacker to extract recon information from known API's:
@@ -52,12 +54,6 @@ show modules
 ```
 keys list
 ```
-
-
-
-
-
-
 
 
 
