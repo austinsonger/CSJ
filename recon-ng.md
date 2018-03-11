@@ -81,3 +81,25 @@ keys add facebook_api 0123456
 
 
 
+#### Scanning for vulnerabilities
+
+##### XSS \(cross-site scripting\) vulnerabilities
+
+> You will be typing in the following:
+
+```
+recon-ng > use recon/domains-vulnerabilities/xssposed
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
