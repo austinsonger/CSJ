@@ -89,6 +89,30 @@ nmap <Target IP Address> -oX ~/Desktop/nmap.xml
 xsltproc Desktop/nmap.xml –o nmap.html
 ```
 
+![](/assets/HTML NMAP Output.png)
+
+
+
+### List of Other Output Formats
+
+
+
+##### Script Kiddie Output
+
+```
+nmap <Target IP Address> -oS /root/Desktop/nmap
+```
+
+##### **Grepable Output Format**
+
+```
+nmap <Target IP Address> -oG /root/Desktop/nmap
+```
+
+
+
+
+
 
 
 
