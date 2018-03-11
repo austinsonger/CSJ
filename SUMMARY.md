@@ -12,6 +12,7 @@
   * [Hex Value of Flags](hex-value-of-flags.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
   * [Recon-ng \[Part One\]](recon-ng.md)
+  * [Netdiscover & ARP: Finding IP/MAC Addresses](netdiscover-and-arp-finding-ipmac-addresses.md)
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
 * [Hacking Phase: Gaining Access](hacking-phase-gaining-access.md)
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
