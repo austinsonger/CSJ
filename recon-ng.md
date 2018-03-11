@@ -71,9 +71,9 @@ keys add facebook_api 0123456
 
 ![](/assets/_Recon-ng09.png)
 
+> If you type "keys list" again you will see the key added to the list.
 
-
-
+![](/assets/_Recon-ng010.png)
 
 
 
