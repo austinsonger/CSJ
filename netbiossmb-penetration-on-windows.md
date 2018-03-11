@@ -20,9 +20,13 @@ nmap -sT -sU 192.168.1.128
 nbtstat -a 192.168.1.128
 ```
 
-
-
 #### Hardening The Targeted System
+
+
+
+##### Filtering Ports 135-139
+
+
 
 
 
