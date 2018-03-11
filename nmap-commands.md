@@ -2,7 +2,7 @@
 
 ---
 
-> By Austin Vern Songer
+> Here are some scans
 
 ### NMAP BASIC SCANS
 
