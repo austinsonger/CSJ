@@ -59,13 +59,19 @@ hping3 -f <Target IP Address> -p 80
 >
 > We are concerned that this yousuck might be detected by the IDS. We could use the fragmentation switch and load the malware across multiple packets where it will be reassembled by the target, while evading the IDS or AV software.
 
-
-
-
-
 ```
 hping3 -f <Target IP Address> -p 80 -d 10 -E yousuck
 ```
+
+> ```
+> * -d is the data payload size 
+>     * 10 bytes
+> * -E tells hping3 to grab data from the following file
+> ```
+
+
+
+#### Traceroute with hping3
 
 
 
