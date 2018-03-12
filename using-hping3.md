@@ -12,14 +12,11 @@ hping3 -h |more
 
 
 
-> **-a switch**
-> * enables us to spoof our IP address
+> * **-a switch **enables us to spoof our IP address
 > * **--rand-dest **produces packets with random destination ports
 > * **--rand-source **produces packets with random addresses
-> * **-t**
->   sets the Time to live for the packets
-> * **-f**
->   fragments the packets
+> * **-t **sets the Time to live for the packets
+> * **-f **fragments the packets
 
 
 
