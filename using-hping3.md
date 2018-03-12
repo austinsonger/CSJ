@@ -43,13 +43,13 @@ hping -S <Target IP Address> -p ++1
 
 ### Fragment Packets
 
+> hping allows you to designs new attacks that hping3 has never seen before
+
 #### hping3 fragmentation
 
 ```
 hping3 -f <Target IP Address> -p 80
 ```
-
-
 
 
 
