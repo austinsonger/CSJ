@@ -51,11 +51,15 @@ hping -S <Target IP Address> -p ++1
 hping3 -f <Target IP Address> -p 80
 ```
 
-
-
-
-
 #### Sending Data with hping3
+
+> Using hping you can pretty much send whatever data you want in the packets created by hping3
+
+
+
+
+
+
 
 
 
