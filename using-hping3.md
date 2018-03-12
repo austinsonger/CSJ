@@ -17,20 +17,15 @@ hping3 -h |more
 > * **-f **fragments the packets
 >
 > * **-Q **shows only the sequence number
+>
 > * **-S **scan using SYN packets
 > * **--tcp-timestamp **grabs the timestamp from the tcp packet
 
-
-
 ## Host Discovery / Recon
-
-
 
 ```
 hping3 -S <Target IP Address> -p 80
 ```
-
-
 
 ### Port Status
 
@@ -43,7 +38,7 @@ RA Set = Port Closed
 
 
 
-
+> If we want to scan all the ports beginning with 1, we can simply add the increment switch \(++\) after the port \(p\) switch and the port number where we want to start scanning \(in this case 1\), like so:
 
 
 
