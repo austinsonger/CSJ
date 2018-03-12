@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Tool Commands](nmap.md)
   * [Metasploit](metasploit.md)
+  * [hping3](hping3.md)
   * [recon-ng](recon-ng-commands.md)
   * [NMAP](nmap-commands.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
