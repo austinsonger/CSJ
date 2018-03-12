@@ -69,9 +69,9 @@ hping3 -f <Target IP Address> -p 80 -d 10 -E yousuck
 > * -E tells hping3 to grab data from the following file
 > ```
 
-
-
 #### Traceroute with hping3
+
+> Traceroute is a tool that allows us to trace the route a packet takes across the internet.
 
 
 
