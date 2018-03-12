@@ -57,9 +57,15 @@ hping3 -f <Target IP Address> -p 80
 >
 > * **-E **switch enables us to denote a file we want to use to fill the payload of the packet.
 >
-> We are concerned that this malware might be detected by the IDS. We could use the fragmentation switch and load the malware across multiple packets where it will be reassembled by the target, while evading the IDS or AV software.
+> We are concerned that this yousuck might be detected by the IDS. We could use the fragmentation switch and load the malware across multiple packets where it will be reassembled by the target, while evading the IDS or AV software.
 
 
+
+
+
+```
+hping3 -f <Target IP Address> -p 80 -d 10 -E yousuck
+```
 
 
 
