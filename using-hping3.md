@@ -15,12 +15,37 @@ hping3 -h |more
 > * **--rand-source **produces packets with random addresses
 > * **-t **sets the Time to live for the packets
 > * **-f **fragments the packets
-
-
-
+>
 > * **-Q **shows only the sequence number
 > * **-S **scan using SYN packets
 > * **--tcp-timestamp **grabs the timestamp from the tcp packet
+
+
+
+## Host Discovery / Recon
+
+
+
+```
+hping3 -S <Target IP Address> -p 80
+```
+
+
+
+### Port Status
+
+```
+SA Set = Port Open
+RA Set = Port Closed
+```
+
+
+
+
+
+
+
+
 
 
 
