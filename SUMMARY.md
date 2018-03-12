@@ -6,6 +6,7 @@
   * [hping3](hping3.md)
   * [recon-ng](recon-ng-commands.md)
   * [NMAP](nmap-commands.md)
+  * [aircrack-ng](aircrack-ng.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
   * [Generating Scan Reports](generating-scan-reports.md)
   * [NMAP: Vulnerabilities](nmap-vulnerabilities.md)
