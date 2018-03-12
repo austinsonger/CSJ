@@ -54,14 +54,10 @@ hping3 -f <Target IP Address> -p 80
 #### Sending Data with hping3
 
 > Using hping you can pretty much send whatever data you want in the packets created by hping3
-
-
-
-
-
-
-
-
+>
+> * **-E **switch enables us to denote a file we want to use to fill the payload of the packet.
+>
+> We are concerned that this malware might be detected by the IDS. We could use the fragmentation switch and load the malware across multiple packets where it will be reassembled by the target, while evading the IDS or AV software.
 
 
 
