@@ -9,7 +9,6 @@
   * [Generating Scan Reports](generating-scan-reports.md)
   * [NMAP: Vulnerabilities](nmap-vulnerabilities.md)
   * [Recon-ng \[Part One\]](recon-ng.md)
-  * [Using hping3](using-hping3.md)
   * [Exploit SNMP](exploit-snmp.md)
 * [Hacking Phase: Scanning](hacking-phase-scanning.md)
   * [NMAP: Scan with SYN Flag](scan-with-syn-flag.md)
