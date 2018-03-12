@@ -41,9 +41,15 @@ RA Set = Port Closed
 hping -S <Target IP Address> -p ++1
 ```
 
-
-
 ### Fragment Packets
+
+
+
+
+
+
+
+
 
 
 
