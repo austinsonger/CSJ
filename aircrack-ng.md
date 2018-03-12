@@ -1,5 +1,3 @@
-
-
 # Aircrack-ng
 
 ```
