@@ -25,5 +25,5 @@
 * [Hacking Phase: Maintaining Access](hacking-phase-maintaining-access.md)
 * [Hacking Phase: Clearing Tracks](hacking-phase-clearing-tracks.md)
 * [Exploits](exploits.md)
-* [ms08\_067](ms08067.md)
+  * [ms08\_067](ms08067.md)
 
