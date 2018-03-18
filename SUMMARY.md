@@ -7,6 +7,7 @@
   * [recon-ng](recon-ng-commands.md)
   * [NMAP](nmap-commands.md)
   * [aircrack-ng](aircrack-ng.md)
+  * [Meterpreter](meterpreter.md)
 * [Hacking Phase: Reconnaissance](hacking-phase-reconnaissance.md)
   * [Generating Scan Reports](generating-scan-reports.md)
   * [NMAP: Vulnerabilities](nmap-vulnerabilities.md)
